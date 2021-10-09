@@ -17,3 +17,13 @@ Once the user is satisfied with the generated layout, the user can export the la
 
 
 ![caption](https://github.com/Reza9472/MyCSV/blob/main/images/Front%20Page%20-%20Google%20Chrome%202021-10-09%2014-08-16.gif)
+
+----
+
+# License
+
+This project is licensed under the MIT license
+
+# Author
+
+Reza Poursafa
